@@ -16,6 +16,10 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
+.masthead a{
+  text-decoration: none;
+  color: whitesmoke;
+}
 .masthead-text{
   width:500px;
   margin:auto;
