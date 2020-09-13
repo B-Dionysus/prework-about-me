@@ -11,25 +11,31 @@ body {
 }
 
 .masthead {
-  padding: 6em 0;
+  padding: 1em 0;
   background-image: url('../img/code.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
-
+.masthead-text{
+  width:500px;
+  margin:auto;
+  background-color: rgba(100,100,100,.50);
+}
 .masthead-intro {
     margin-bottom: 0.1em;
-    font-size: 2em;
+    font-size: 3em;
     color: #ffffff;
 }
 
 .masthead-heading {
     margin-top: -0.2em;
     font-weight: bold;
-    font-size: 6em;
+    font-size: 5em;
     letter-spacing: -0.02em;
     text-transform: uppercase;
     color: #ffffff;
+    text-align: center;
+    
 }
 
 .details {
